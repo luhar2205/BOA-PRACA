@@ -1,0 +1,12 @@
+customtkinter>=5.2.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+thefuzz>=0.20.0
+python-Levenshtein>=0.21.0
+xmltodict>=0.13.0
+fastapi
+uvicorn
+pandas
+openpyxl
+thefuzz
+python-multipart
